@@ -1,4 +1,4 @@
-
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2022\Visual Studio Tools\VC\x64 Native Tools Command Prompt for VS 2022 (2).lnk"
 
 # Announcement: Repository to be archived on March 1, 2025
 We realize this may come as a shock and disappointment to our contributors but we simply do not have the expertise or resources within the organization to continue to maintain this project. 
